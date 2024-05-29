@@ -8,3 +8,6 @@ To run daise
 ./daisen -sqlite <name of the file>
 ```
 
+Here how daisen looks
+
+![Example Image](./daisen.ong)
