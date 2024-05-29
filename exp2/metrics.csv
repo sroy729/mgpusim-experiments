@@ -1,0 +1,4 @@
+, where, what, value
+0, Driver, kernel_time, 0.000007707000
+1, Driver, total_time, 0.000011672000
+2, GPU[1].CommandProcessor, kernel_time, 0.000007118000

@@ -5,7 +5,7 @@ import (
 	"fmt"
 
 	"github.com/sarchlab/mgpusim/v3/benchmarks/heteromark/fir"
-	"github.com/sroy729/mgusim-experiments/exp2/runner"
+	"github.com/sroy729/mgpusim-experiments/exp2/runner"
 )
 
 func main() {
