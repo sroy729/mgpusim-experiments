@@ -10,4 +10,4 @@ To run daise
 
 Here how daisen looks
 
-![Example Image](./daisen.ong)
+![Example Image](./daisen.png)
