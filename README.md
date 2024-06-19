@@ -8,6 +8,7 @@ spit out all the basic metrics that we need.
 then run benchmark on that
 - exp3: Knowledge dump to get the Daisen(visualization tool) to work
 - exp4: Running most of the benchmark with vanilla configuration.
+- exp5: sensitivity test for GPU.
 
 **Sheet used for uploading metrics**
 
